@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+#all {
+    width: 1903px;
+    height: 792.141px;
+    margin-bottom: -611px;
+}
+#main {
+    width: 1903px;
+    height: 657.141px;
+}
+#wrap {
+    width: 1903px;
+    height: 593.141px;
+    margin-top: 32px;
+    padding-bottom: 32px;
+    display: flex;
+    justify-content: center;
+}
+.img_area {
+    width: 380.312px;
+    height: 581.141px;
+    margin-right: 32px;
+    margin-bottom: 12px;
+    background-color: #aaa;
+    border-radius: 50px;
+}
+.login_form {
+    width: 350px;
+    height: 581.141px;
+    margin-top: 12px;
+}
+.login_area {
+    width: 348px;
+    height: 379.984px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px;
+}
+.login_area > .logo {
+    text-align: center;
+}
+.login_area > .logo > img {
+    width: 185px;
+    height: 68px;
+    margin-top: 36px;
+    margin-bottom: 12px;
+}
+.login_area > .login_real {
+    width: 348px;
+    height: 266.984px;
+    margin-bottom: 10px;
+}
+.login_real > .login_really {
+    width: 348px;
+    height: 266.984px;
+}
+.login_really > .something {
+    width: 348px;
+    height: 214.984px;
+    margin-top: 24px;
+}
+.something > .id {
+    width: 268px;
+    height: 38px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 6px;
+}
+.something > .login_but {
+    width: 268px;
+    height: 32px;
+    margin: 8px 40px;
+}
+.something > .also {
+    width: 268px;
+    height: 14.984px;
+    margin: 10px 40px 18px 40px;
+}
+.something > .other_login {
+    width: 268px;
+    height: 20px;
+    margin: 8px 40px;
+}
+.login_really > .forget {
+    width: 348px;
+    height: 16px;
+    margin-top: 12px;
+}
+.join {
+    width: 348px;
+    height: 41px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px;
+}
+.join > span {
+    width: 211.953px;
+    height: 41px;
+}
+.join > span > p {
+    width: 181.953px;
+    height: 18px;
+    margin: 15px;
+    text-align: center;
+}
+.download {
+    width: 350px;
+    height: 95px;
+}
+.download > .download_txt {
+    width: 310px;
+    height: 11px;
+    margin: 10px 20px;
+    text-align: center;
+}
+.download > .download_txt > span {
+    width: 310px;
+    height: 18px;
+}
+.download > .download_link {
+    width: 350px;
+    height: 44px;
+    margin: 10px 0;
+    text-align: center;
+}
+.download > .download_link > a:first-child {
+    width: 134.281px;
+    height: 44px;
+    margin-right: 8px;
+}
+.download > .download_link > a:first-child > img {
+    width: 134.281px;
+    height: 40px;
+}
+.download > .download_link > a:nth-child(2) {
+    width: 110.776px;
+    height: 44px;
+}
+.download > .download_link > a:nth-child(2) > img {
+    width: 110.776px;
+    height: 40px;
+}
+footer {
+    width: 1871px;
+    height: 135px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.footer_main {
+    width: 1871px;
+    height: 83px;
+    margin-bottom: 52px;
+}
+.footer1 {
+    width: 1871px;
+    height: 23px;
+    margin-top: 24px;
+}
+.footer2 {
+    width: 1871px;
+    height: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
